@@ -112,7 +112,7 @@ npm install -g yarn
 #### 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-repo/google-message-client-desktop.git
+git clone git@github.com:pawel-niedzwiecki/google-messages-client.git
 cd google-message-client-desktop
 ```
 
