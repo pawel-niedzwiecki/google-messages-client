@@ -30,7 +30,7 @@ Google Message Client Desktop is a simple Electron-based application that wraps 
 
 #### 1. Download and Install
 
-- Download the latest `.dmg` release from the [GitHub Releases page](https://github.com/your-repo/google-message-client-desktop/releases).
+- Download the latest `.dmg` release from the [GitHub Releases page](https://github.com/pawel-niedzwiecki/google-messages-client/releases/download/v0.0.0/GoogleMessagesClient-mac.dmg).
 - Open the `.dmg` file and drag the application to the `Applications` folder.
 - Double-click the application to launch it.
 
@@ -43,7 +43,7 @@ Google Message Client Desktop is a simple Electron-based application that wraps 
 
 #### 1. Download and Install
 
-- Download the latest `.exe` installer from the [GitHub Releases page](https://github.com/your-repo/google-message-client-desktop/releases).
+- Download the latest `.exe` installer from the [GitHub Releases page](https://github.com/pawel-niedzwiecki/google-messages-client/releases/download/v0.0.0/GoogleMessagesClient-windows.exe).
 - Run the `.exe` installer and follow the installation steps.
 - After installation, launch the application from the Start Menu or Desktop shortcut.
 
