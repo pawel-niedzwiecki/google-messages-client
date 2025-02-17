@@ -1,0 +1,12 @@
+/* Reset default styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Full viewport container */
+#app {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
