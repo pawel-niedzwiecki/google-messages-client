@@ -62,13 +62,18 @@ To use Google Message Client Desktop, you must pair it with your phone using a Q
 1. **Open the Application**
 
    - Launch the Google Message Client Desktop app.
+
+   ![Google Message Client Desktop Screenshot](./assets/2.png)
+
    - The app will display a QR code for pairing.
 
 2. **Open Google Messages on Your Phone**
 
    - Open the `Messages` app on your Android device.
+     ![Google Message Client Desktop Screenshot](./assets/3.png)
    - Tap on the three-dot menu (`⋮`) in the top-right corner.
    - Select `Device Pairing`.
+     ![Google Message Client Desktop Screenshot](./assets/4.png)
 
 3. **Scan the QR Code**
    - Tap `QR Code Scanner` and point your phone’s camera at the QR code displayed in the desktop app.
